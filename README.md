@@ -8,8 +8,6 @@ As you analyze the data, before you create the model, the sales team also needs 
 
 Objectives:
 
-Identify which customers are most likely to be churned so the bank manager knows who to provide a better service to
-
-The Top Priority is to identify churning customers,as if we predict non-churning customers as churned, it won't harm our business, but predicting churning customers as Non-churning will. False negatives won't hurt us, but False Positives do
-This task is binary classification
-A clean and easy to understand visual report that helps the sales team better visualize what makes a client churn or not churn.
+- Identify which customers are most likely to be churned so the bank manager knows who to provide a better service to the Top Priority is to identify churning customers, as if we predict non-churning customers as churned, it won't harm our business, but predicting churning customers as non-churning will. False negatives won't hurt us, but False Positives do.
+- This task is binary classification
+- A clean and easy to understand visual report that helps the sales team better visualize what makes a client churn or not churn.
